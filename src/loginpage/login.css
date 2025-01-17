@@ -1,0 +1,102 @@
+.login{
+    background-image: url('https://st4.depositphotos.com/12981370/24312/i/450/depositphotos_243120806-stock-photo-programmer-working-software-development-coding.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+
+.login h2{
+    color: rgb(8, 8, 8);
+    font-family: 'Switzer';
+    font-weight: 500;
+    font-size: 50px;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+}
+
+.login p{
+    color: rgb(11, 11, 11);
+    font-family: 'Switzer';
+    font-weight: 500;
+    font-size: 22px;
+    position: absolute;
+    left: 12%;
+    top: 30%;
+}
+
+.email label{
+    position: absolute;
+    top: 43%;
+    left: 7%;
+    color: rgb(16, 16, 16);
+    font-family: 'Switzer';
+    font-weight: 300;
+    font-size: 20px;
+}
+.email input{
+    color: rgba(24, 23, 23, 0.59);
+    position: absolute;
+   left: 7%;
+    height: 5vh;
+    width: 25vw;
+    top: 50%;
+
+}
+
+.password label{
+    position: absolute;
+    top: 60%;
+    left: 7%;
+    color: rgb(9, 9, 9);
+    font-family: 'Switzer';
+    font-weight: 300;
+    font-size: 20px;
+}
+.password input{
+    position: absolute;
+    top: 67%;
+    left: 7%;
+    height: 5vh;
+    width: 25vw;
+    color: rgba(127, 127, 127, 0.59);
+    font-family: 'Switzer';
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.login Button{
+    position: absolute;
+    top:85%;
+    left: 7%;
+    height: 7vh;
+    width: 26vw;
+}
+.login p1{
+    position: absolute;
+    top: 74%;
+    color: rgb(215, 6, 103);
+
+    font-family: 'Switzer';
+    font-weight: 500;
+    left: 19%;
+}
+.eye{
+    position: absolute;
+    top: 68%;
+    left: 29%;
+    height: 4vh;
+}
+.main{
+ 
+    background: rgba(255, 255, 255, 0.648);
+    height: 92vh;
+    width: 33vw;
+    margin-left: 42px;
+   margin-top: 38px;
+
+}

@@ -1,0 +1,272 @@
+.details{
+    background: linear-gradient(110.14deg, rgba(142, 63, 146, 0.15) 0%, rgba(23, 72, 148, 0.15) 100%);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.first{
+    position: absolute;
+    top: 18%;
+    color: rgb(15, 15, 16);
+    left: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.first input{
+    position: absolute;
+    top: 160%;
+    width: 17vw;
+    height: 4vh;
+    color: rgb(0, 0, 1);
+}
+
+.last{
+    position: absolute;
+    top: 18%;
+    color: rgb(7, 7, 7);
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.last input{
+    position: absolute;
+    top: 160%;
+    width: 17vw;
+    height: 4vh;
+    color: rgb(3, 3, 3);
+}
+
+.employe{
+    position: absolute;
+    top: 18%;
+    color: rgb(6, 6, 6);
+    left: 60%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.employe input{
+    position: absolute;
+    top: 160%;
+    width: 17vw;
+    height: 4vh;
+    color: rgb(8, 8, 8);
+
+}
+
+.Date{
+    position: absolute;
+    top: 32%;
+    color: rgb(18, 18, 19);
+    left: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.Date input{
+    position: absolute;
+    top: 160%;
+    width: 17vw;
+    height: 4vh;
+    color: rgb(6, 7, 7);
+
+}
+
+.device{
+    position: absolute;
+    top: 32%;
+    color: rgb(7, 8, 9);
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.device input{
+    position: absolute;
+    top: 160%;
+    width: 17vw;
+    height: 4vh;
+    color: rgb(11, 12, 12);
+
+}
+
+.laptop{
+    position: absolute;
+    top: 32%;
+    color: rgb(8, 8, 9);
+    left: 60%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.laptop select{
+    position: absolute;
+    top: 160%;
+    width: 17vw;
+    height: 4vh;
+    color: rgb(0, 1, 1);
+
+}
+
+.self{
+    position: absolute;
+    top: 47%;
+    color: rgb(7, 8, 8);
+    left: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.self input{
+    position: absolute;
+    top: 160%;
+    width: 29vw;
+    height: 4vh;
+    color: rgb(4, 5, 5);
+
+}
+
+
+.agreement{
+    position: absolute;
+    top: 47%;
+    color: rgb(4, 4, 4);
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.agreement input{
+    position: absolute;
+    top: 160%;
+    width: 29vw;
+    height: 4vh;
+    color: rgb(2, 2, 2);
+
+}
+
+.confident{
+    position: absolute;
+    top: 47%;
+    color: rgb(4, 4, 4);
+    left: 60%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.confident input{
+    position: absolute;
+    top: 160%;
+    width: 29vw;
+    height: 4vh;
+    color: rgb(7, 7, 7);
+
+}
+
+.contact{
+    position: absolute;
+    top: 60%;
+    color: rgb(7, 8, 8);
+    left: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.contact input{
+    position: absolute;
+    top: 160%;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(11, 12, 12);
+
+}
+
+.address{
+    position: absolute;
+    top: 60%;
+    color: rgb(7, 8, 8);
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.address input{
+    position: absolute;
+    top: 160%;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(5, 6, 7);
+
+}
+
+.permanent{
+    position: absolute;
+    top: 60%;
+    color: rgb(13, 13, 14);
+    left: 60%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.permanent input{
+    position: absolute;
+    top: 160%;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(10, 10, 10);
+
+}
+
+.blood{
+    position: absolute;
+    top: 74%;
+    color: rgb(13, 14, 14);
+    left: 10%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.blood select{
+    position: absolute;
+    top: 160%;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(13, 14, 15);
+}
+
+.Vehicle{
+    position: absolute;
+    top: 74%;
+    color: rgb(6, 7, 7);
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Switzer';
+}
+.Vehicle input{
+    position: absolute;
+    top: 160%;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(7, 8, 8);
+}
+
+.button{
+    position: absolute;
+    top: 88%;
+    left: 40%;
+    width: 10vw;
+    height: 6vh;
+}
+
+.error {
+    color: red;
+    font-size: 12px; 
+    margin-top: 5px; 
+}
